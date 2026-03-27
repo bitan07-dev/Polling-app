@@ -20,3 +20,4 @@ The Polling App allows users to submit a vote for a specific option (e.g., "Yes"
 
 ---
 *Note: To interact with this contract, you will need the [Soroban CLI](https://soroban.stellar.org/docs/getting-started/setup) installed.*
+<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/8139475e-4bf0-4ebf-8365-c9be019aa9f8" />
